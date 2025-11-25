@@ -1,0 +1,31 @@
+TEAM_ID,ABBREVIATION,TEAM,CITY,ARENA,lat,lon
+1610612737,ATL,Atlanta Hawks,Atlanta,"State Farm Arena",33.7573,-84.3963
+1610612738,BOS,Boston Celtics,Boston,"TD Garden",42.3663,-71.0621
+1610612751,BKN,Brooklyn Nets,Brooklyn,"Barclays Center",40.6826,-73.9754
+1610612766,CHA,Charlotte Hornets,Charlotte,"Spectrum Center",35.2251,-80.8392
+161_1610612741,CHI,Chicago Bulls,Chicago,"United Center",41.8807,-87.6742
+1610612739,CLE,Cleveland Cavaliers,Cleveland,"Rocket Mortgage FieldHouse",41.4964,-81.6882
+1610612742,DAL,Dallas Mavericks,Dallas,"American Airlines Center",32.7904,-96.8103
+1610612743,DEN,Denver Nuggets,Denver,"Ball Arena",39.7487,-105.0077
+1610612765,DET,Detroit Pistons,Detroit,"Little Caesars Arena",42.3411,-83.0551
+1610612744,GSW,Golden State Warriors,San Francisco,"Chase Center",37.7503,-122.3830
+1610612745,HOU,Houston Rockets,Houston,"Toyota Center",29.7508,-95.3621
+1610612754,IND,Indiana Pacers,Indianapolis,"Gainbridge Fieldhouse",39.7640,-86.1555
+1610612746,LAC,Los Angeles Clippers,Los Angeles,"Crypto.com Arena",34.0431,-118.2671
+1610612747,LAL,Los Angeles Lakers,Los Angeles,"Crypto.com Arena",34.0431,-118.2671
+1610612763,MEM,Memphis Grizzlies,Memphis,"FedExForum",35.1382,-90.0505
+1610612748,MIA,Miami Heat,Miami,"Kaseya Center",25.7814,-80.1870
+1610612749,MIL,Milwaukee Bucks,Milwaukee,"Fiserv Forum",43.0450,-87.9181
+1610612750,MIN,Minnesota Timberwolves,Minneapolis,"Target Center",44.9795,-93.2761
+1610612740,NOP,New Orleans Pelicans,New Orleans,"Smoothie King Center",29.9490,-90.0821
+1610612752,NYK,New York Knicks,New York,"Madison Square Garden",40.7505,-73.9934
+1610612760,OKC,Oklahoma City Thunder,Oklahoma City,"Paycom Center",35.4634,-97.5151
+1610612753,ORL,Orlando Magic,Orlando,"Kia Center",28.5392,-81.3839
+1610612755,PHI,Philadelphia 76ers,Philadelphia,"Wells Fargo Center",39.9012,-75.1719
+1610612756,PHX,Phoenix Suns,Phoenix,"Footprint Center",33.4459,-112.0713
+1610612757,POR,Portland Trail Blazers,Portland,"Moda Center",45.5317,-122.6667
+1610612758,SAC,Sacramento Kings,Sacramento,"Golden 1 Center",38.5804,-121.4995
+1610612759,SAS,San Antonio Spurs,San Antonio,"Frost Bank Center",29.4270,-98.4375
+1610612761,TOR,Toronto Raptors,Toronto,"Scotiabank Arena",43.6435,-79.3791
+1610612762,UTA,Utah Jazz,Salt Lake City,"Delta Center",40.7683,-111.9011
+1610612764,WAS,Washington Wizards,Washington,"Capital One Arena",38.8981,-77.0209
